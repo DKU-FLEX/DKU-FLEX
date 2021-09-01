@@ -14,6 +14,9 @@
 <br></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKU-FLEXk&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKU-FLEX&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br></br>
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=footer)
