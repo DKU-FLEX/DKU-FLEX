@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=DKU-FLEX&fontSize=50&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=FLEX&fontSize=50&animation=blink)
 
 <p align="center">Fabulous machine Learning EXplorers
 
